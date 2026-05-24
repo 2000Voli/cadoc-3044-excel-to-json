@@ -2,17 +2,17 @@
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 
-!\[pandas](https://img.shields.io/badge/pandas-Data%20Processing-purple)
+![pandas](https://img.shields.io/badge/pandas-Data%20Processing-purple)
 
-!\[JSON](https://img.shields.io/badge/JSON-Generator-yellow)
+![JSON](https://img.shields.io/badge/JSON-Generator-yellow)
 
-!\[Excel](https://img.shields.io/badge/Excel-Input-green)
+![Excel](https://img.shields.io/badge/Excel-Input-green)
 
-!\[RegTech](https://img.shields.io/badge/RegTech-Financial%20Data-red)
+![RegTech](https://img.shields.io/badge/RegTech-Financial%20Data-red)
 
-!\[Status](https://img.shields.io/badge/Status-Active-success)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 
 
