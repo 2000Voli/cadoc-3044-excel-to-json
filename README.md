@@ -1,4 +1,4 @@
-\# CADOC 3044 Excel to JSON Generator
+# CADOC 3044 Excel to JSON Generator
 
 
 
@@ -24,7 +24,7 @@ Python tool for generating CADOC 3044 JSON files from structured Excel spreadshe
 
 
 
-\# Overview
+# Overview
 
 
 
@@ -40,7 +40,7 @@ The solution validates required sheets and columns, normalizes dates and numeric
 
 
 
-\# Problem Solved
+# Problem Solved
 
 
 
@@ -56,7 +56,7 @@ This automation reduces manual work and improves consistency in CADOC 3044 file 
 
 
 
-\# Main Features
+# Main Features
 
 
 
@@ -88,7 +88,7 @@ This automation reduces manual work and improves consistency in CADOC 3044 file 
 
 
 
-\# Input Structure
+# Input Structure
 
 
 
@@ -116,7 +116,7 @@ The expected Excel file contains the following sheets:
 
 
 
-\# Technical Stack
+# Technical Stack
 
 
 
@@ -142,7 +142,7 @@ The expected Excel file contains the following sheets:
 
 
 
-\# Project Structure
+# Project Structure
 
 
 
