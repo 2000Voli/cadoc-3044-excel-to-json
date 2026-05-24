@@ -60,27 +60,27 @@ This automation reduces manual work and improves consistency in CADOC 3044 file 
 
 
 
-\- Excel input processing
+- Excel input processing
 
-\- Multi-sheet validation
+- Multi-sheet validation
 
-\- Required column validation
+- Required column validation
 
-\- Date normalization
+- Date normalization
 
-\- Numeric value normalization
+- Numeric value normalization
 
-\- IPOC consistency validation
+- IPOC consistency validation
 
-\- Operation-level event grouping
+- Operation-level event grouping
 
-\- Payment event support
+- Payment event support
 
-\- Assignment event support
+- Assignment event support
 
-\- Acquisition event support
+- Acquisition event support
 
-\- Hierarchical JSON generation
+- Hierarchical JSON generation
 
 
 
@@ -120,21 +120,21 @@ The expected Excel file contains the following sheets:
 
 
 
-\- Python
+- Python
 
-\- pandas
+- pandas
 
-\- numpy
+- numpy
 
-\- dataclasses
+- dataclasses
 
-\- JSON
+- JSON
 
-\- Excel processing
+- Excel processing
 
-\- Regulatory data transformation
+- Regulatory data transformation
 
-\- Financial data quality
+- Financial data quality
 
 
 
